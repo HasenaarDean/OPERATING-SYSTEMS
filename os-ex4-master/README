@@ -1,0 +1,10 @@
+imrip, hasenaar
+Imri Paran (302960372), Dean Hasenaar (313584401)
+EX: 4
+
+FILES:
+README                    -- this file
+VirtualMemory.cpp         -- the implementation file for our amazing virtualMemory library
+util.h                    -- definitions of utility functions
+util.cpp                  -- implementations of utility functions
+Makefile                  -- the makefile

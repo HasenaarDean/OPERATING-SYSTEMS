@@ -1,0 +1,22 @@
+imrip, hasenaar
+Imri Paran (302960372), Dean Hasenaar (313584401)
+EX: 1
+
+FILES:
+README      -- this file
+osm.cpp     -- a file with functions which measure the running times
+osm.h       -- a header file for the file above
+results.png -- the running time results as a graph
+Makefile    -- the makefile
+
+REMARKS:
+
+
+ANSWERS:
+
+Q1:
+(Assignment 1)
+The program creates the directories Welcome/To and the file OS2018 which resides in this path.
+It writes a string to the file that demands from the user to read the course guide lines if he/she
+hasn't done so yet. The program finishes by deleting the file and the directories it created
+essentially deleting its tracks and making it untraceable by sophisticated security experts.
